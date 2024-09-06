@@ -1,0 +1,13 @@
+.MuiBox-root .MuiListItemButton-root li {
+    width: 100%;
+}
+.MuiBox-root .MuiListItemButton-root {
+    padding: 0;
+}
+.MuiListItemText-root .MuiListItemText-primary{
+    font-size: 14px;
+    font-weight: 600;
+}
+.MuiDrawer-root .MuiDrawer-paperAnchorDockedLeft{
+    box-shadow: rgb(0 0 0 / 15%) 1.95px 1.95px 2.6px;
+}

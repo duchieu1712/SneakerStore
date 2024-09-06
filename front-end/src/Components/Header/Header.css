@@ -1,0 +1,10 @@
+.positionMenu{
+    top: 65%;
+    right: 4%;
+}
+.gapItem {
+    row-gap: 1rem;
+}
+.marginLeft{
+    margin-left: 0!important;
+}
